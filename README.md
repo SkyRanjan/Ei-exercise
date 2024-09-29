@@ -1,11 +1,16 @@
-Greetings 
+# Coding Assignment by **Akash Ranjan**
 
-I am Akash Ranjan currently pursuing my final year in BTech in Computer Science with specialization in Artificial Intelligence
+## About Me
+I am currently pursuing my final year in **BTech in Computer Science** with a specialization in **Artificial Intelligence**. My interests lie in **Web Development**, **Data Processing**, and **Artificial Intelligence**, which have motivated me to acquire various technical skills.
 
-I am intreseted in web development, data processing and artificial intelligence. My interest has led me to learning various skills.
+## Overview
+This repository contains solutions for two coding exercises, both implemented in **Java**.
 
-I have completed this coding assignment in JAVA. 
+### **Exercise 1: Design Patterns**
+This part demonstrates the following design patterns:
+- **Behavioral**
+- **Creational**
+- **Structural**
 
-Exercise 1 consists of the code for Design patterns
-
-Exercise 2 consists of the code for Astronaut Daily Schedule Organizer Programming Exercise 
+### **Exercise 2: Astronaut Daily Schedule Organizer**
+A console-based CRUD (Create, Read, Update, Delete) application designed to help astronauts organize their daily tasks.
