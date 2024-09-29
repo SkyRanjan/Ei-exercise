@@ -1,6 +1,6 @@
 # Design Patterns Showcase
 
-## Overview
+##Overview
 This project demonstrates the implementation of various design patterns in Java through different use cases, focusing on behavioral, creational, and structural patterns.
 
 ## Patterns Covered
@@ -14,9 +14,3 @@ This project demonstrates the implementation of various design patterns in Java 
 ## Technologies Used
 - Java
 - Object-Oriented Programming
-
-## Usage
-Clone the repository and run the respective demo files for each design pattern.
-
-## License
-This project is licensed under the MIT License.
